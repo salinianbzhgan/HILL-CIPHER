@@ -83,4 +83,4 @@ int main() {
 ## OUTPUT
 <img width="979" height="526" alt="image" src="https://github.com/user-attachments/assets/72765c9d-dc9d-4d58-b14b-5ba6a7436016" />
 
-## RESULT
+
